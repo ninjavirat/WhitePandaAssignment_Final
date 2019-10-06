@@ -233,33 +233,7 @@ text-align:center;
 .sidenav_icons{
   color: #3ebcb3;
 }
-
-.topnav{
-  box-shadow: 0 5px 5px -5px #ebebeb;
-  background-color: white;
-  padding-left: 100px;
-  padding-top: 20px;
-  padding-bottom: 20px;
-}
-
-
-
-.topnav_icons{
- text-align:right;
- padding-left: 100px;
- padding-right: 100px;
-
-}
-
-.topnav_image{
-  height:30px;
-  width:50px;
-  padding-left: 20px
-}
-
-
-
-
+/*Media Queries */
 @media (min-width: 768px) and (max-width: 1024px) {
   
   .content_store{
