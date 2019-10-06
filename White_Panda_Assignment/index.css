@@ -140,7 +140,7 @@ text-align:center;
 
 .footer{
   text-align: center;
-  background-color: #fefefe;
+  background-color: #e9f2eb;
   padding: 30px;
   color: #9ea1a8;
 }
@@ -174,7 +174,7 @@ text-align:center;
 .main {
   margin-left: 60px; /* Same as the width of the sidebar */
   padding: 0px 10px;
-   background-color: #fdfdfd
+   background-color:#e9f2eb;
 }
 
 .order_button{
@@ -294,5 +294,3 @@ text-align:center;
   
 }
 
-
- 
